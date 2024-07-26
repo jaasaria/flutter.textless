@@ -21,7 +21,7 @@ Directly to the github
 ```
     textless:
         git:
-            url: https://github.com/jaasaria/flutter.view_color_scheme.git
+            url: https://github.com/jaasaria/flutter.textless.git
             ref: main
 ```
 
@@ -86,3 +86,10 @@ import 'package:textless/textless.dart';
 .softWrap
 
 ![image](https://user-images.githubusercontent.com/13378059/111704389-02d78b00-887a-11eb-9a61-686b15ba1a13.png)
+
+
+
+Credit to original Author:
+
+https://pub.dev/packages/textless
+https://github.com/sooxt98/textless
