@@ -9,14 +9,6 @@ Less is More; Widgetless Text
 ## Getting Started
 
 Add this to your package's `pubspec.yaml` file:
-```
-...
-dependencies:
-  textless: ^7.0.0
-  
-```
-
-Directly to the github
 
 ```
     textless:
@@ -24,8 +16,6 @@ Directly to the github
             url: https://github.com/jaasaria/flutter.textless.git
             ref: main
 ```
-
-
 
 Now in your Dart code, you can use:
 ```
