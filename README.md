@@ -12,9 +12,20 @@ Add this to your package's `pubspec.yaml` file:
 ```
 ...
 dependencies:
-  textless: ^6.6.6
+  textless: ^7.0.0
   
 ```
+
+Directly to the github
+
+```
+    textless:
+        git:
+            url: https://github.com/jaasaria/flutter.view_color_scheme.git
+            ref: main
+```
+
+
 
 Now in your Dart code, you can use:
 ```

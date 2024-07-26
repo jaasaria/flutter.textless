@@ -1,3 +1,7 @@
+## 7.0.0
+* Added M3 properties
+
+
 ## 6.6.6
 
 * Fix .text null issue
