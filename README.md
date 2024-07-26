@@ -89,7 +89,7 @@ import 'package:textless/textless.dart';
 
 
 
-Credit to original Author:
+## Credit to the Author
 
-https://pub.dev/packages/textless
-https://github.com/sooxt98/textless
+- [Official Package](https://pub.dev/packages/textless)
+- [Github](https://github.com/sooxt98/textless)
