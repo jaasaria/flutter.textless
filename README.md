@@ -22,12 +22,39 @@ Now in your Dart code, you can use:
 import 'package:textless/textless.dart';
 ```
 
+## Updates
+
+- Compatible to Material 3
+- Added new M3 properties. Check sample project
+
+```
+        "displayLarge".displayLarge,
+        "displayMedium".displayMedium,
+        "displaySmall".displaySmall,
+        "headlineLarge".headlineLarge,
+        "headlineMedium".headlineMedium,
+        "headlineSmall".headlineSmall,
+        "titleLarge".titleLarge,
+        "titleMedium".titleMedium,
+        "titleSmall".titleSmall,
+        "bodyLarge".bodyLarge,
+        "bodyMedium".bodyMedium,
+        "bodySmall".bodySmall,
+        "labelLarge".labelLarge,
+        "labelMedium".labelMedium,
+        "labelSmall".labelSmall,
+```
+
+
+
 ## Usage
 > TEXTLESS magically uses `MaterialApp`'s default text theme
 
 **[ Start with ]**  .h1 .h2 .h3 .h4 .h5 .h6 .s1 .s2 .b1 .b2 .btn .cap .ol .text .style
 
 **[ End_ with ]**
+
+```
 .lineThrough
 .underline
 .overline
@@ -74,6 +101,8 @@ import 'package:textless/textless.dart';
 .alignStart
 .alignEnd
 .softWrap
+
+```
 
 ![image](https://user-images.githubusercontent.com/13378059/111704389-02d78b00-887a-11eb-9a61-686b15ba1a13.png)
 
